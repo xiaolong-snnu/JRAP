@@ -1,0 +1,1 @@
+Joint representation and prediction (JRAP) for modeling trajectory-dependent nonlinear dynamical systems
